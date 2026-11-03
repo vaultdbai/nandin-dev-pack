@@ -1,0 +1,6 @@
+id: dev-pack
+name: Nandi Dev Pack
+description: Official agents from Nandi. PR Reviewer reviews pull requests; AWS Ops Analyst investigates failed jobs, alarms, services and instances.
+version: 0.5.1
+min_nandi_version: 0.1.0
+agents: [pr-reviewer, aws-ops-analyst]
